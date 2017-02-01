@@ -1,0 +1,92 @@
+\documentclass[12pt,man,noextraspace]{article}
+
+\title{PROJECT NAME Prototype Document}
+\author{AUTHOR NAME}
+
+\begin{document}
+\maketitle
+
+\newpage
+\section{Core Mechanics}
+This section needs to cover the core mechanic or mechanics central to the concept.
+This is not a comprehensive list of each thing the player will be doing while they
+are playing but rather a succint explanation of the most important actions they 
+will be taking. Some people refer to this as the 'hook'. The central mechanic is
+important because each other mechanic will grow from it and tie back into it. Limit
+core mechanics to a manageable number (three is a good cap, but one can be a great
+place to start).
+\\Examples:
+\begin{itemize}
+  \item{\textbf{Mario}: Jumping}
+  \item{\textbf{Halo}: Shooting, Melee, Grenades}
+  \item{\textbf{Rogue}: Turn based advancement, Permadeath}
+\end{itemize}
+
+\newpage
+\section{Overall Goal}
+This section needs to describe the goal the player is trying to achieve. This needs
+to tie back into the previous section and detail how the core mechanic or mechanics
+will help the player to achieve this goal. This is best described as the win state of
+the game.
+\\Examples:
+\begin{itemize}
+  \item{\textbf{Mario}: Rescue the princess}
+  \item{\textbf{Halo}: Gain the most kills}
+  \item{\textbf{Rogue}: Descend the dungeon, collect the Amulet of Yendor and return 
+    to the 1st level}
+\end{itemize}
+
+\newpage
+\section{Central Challenge}
+This section needs to detail the central challenge standing in the way of the player
+reaching their goal. This can take many different forms and ties into the overall goal
+as well as the core mechanics. In a narrative context, this is best understood as the
+central conflict. All other obstacles will stem from this central challenge. So, what 
+stands in the way of your player achieving their goal?
+\\Examples:
+\begin{itemize}
+  \item{\textbf{Mario}: Bowser and his minions}
+  \item{\textbf{Halo}: Other players}
+  \item{\textbf{Rogue}: The random generation and enemy placement}
+\end{itemize}
+
+\newpage
+\section{Concept Specific Terms}
+This section needs to cover anything within the game world that needs a specific description
+of what it is and what function it serves within the game world. This list should include
+any items, enemies, concepts, or mechanics that are not readily described by their names
+outside of the game itself. This gives a starting point to share the game world with
+others.
+\\Examples:
+\begin{enumerate}
+  \item{Mario}
+  \begin{itemize}
+    \item{\textbf{Mario}: Mario is the main character. He is an Italian plumber
+      who is very good at jumping.}
+    \item{\textbf{Mushroom}: mushrooms will make Mario grow and allow him to take
+      extra damage.}
+    \item{\textbf{Coin}: coins will be littered throughout levels and hidden within
+      blocks for the player to collect and increase their score}
+    \item{\textbf{Block}: blocks are destructible by Mario jumping into them. They can
+      hold Mushrooms and Coins.}
+  \end{itemize}
+  \item{Halo}
+  \begin{itemize}
+    \item{\textbf{Spartan II}: Spartan IIs are the super soldiers that players take the
+      role of}
+    \item{\textbf{Pistol}: a pistol capable of dropping a Spartan II in three well aimed shots.}
+    \item{\textbf{Shields}: a regenerating energy shield that the take damage for the player.
+        Once the shields have taken enough damage, they will go down and the player's health
+      will be open to damage.}
+  \end{itemize}
+  \item{Rogue}
+  \begin{itemize}
+    \item{\textbf{Dungeon floor}: A procedurally generated level that the player must explore
+      in order ot find items, fight monsters, and find}
+    \item{\textbf{Scroll}: an item that allows the player to cast a one off spell.}
+    \item{\textbf{Spell}: a skill that the player can learn to give them a new magic based
+      ability. Can be a fireball, a teleport, a freeze.}
+  \end{itemize}
+\end{enumerate}
+
+\end{document}
