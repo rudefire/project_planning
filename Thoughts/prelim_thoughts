@@ -1,0 +1,62 @@
+What is needed to take a software project from inception to completion?
+I think this can be broken down into two discrete areas:
+-Pre-Production
+-Production
+
+So what needs to happen in pre-production to take get the ball rolling on
+a new concept or idea? Ultimately a roadmap to release needs to be
+developed, so the first problem is to determine what specific information
+needs to be used for a roadmap.
+
+A concept does not need to be fully fleshed out and perfect before
+production has begun. There must be room for prototyping and iteration even
+in pre-production to really hammer out all of the details.
+
+Really, the first problem is to determine what information is needed to
+be able to start prototyping.
+
+So, what information is needed to start on a prototype?
+- A main concept for gameplay
+- OR a problem that the project is solving
+- OR a narrative seed
+
+For these purposes, this will discuss taking a gameplay concept to the
+prototype stage. What are the steps to a playable throwaway prototype?
+1. Define core mechanics
+2. Define overall goal for player to achieve
+3. Define central challenge (this is the gameplay equivalent of the 
+    narrative central conflict)
+4. Define additional obstacles to the goal
+5. Define terms specific to the concept (items, enemies, powerups, etc.)
+6. Determine what is needed for a bare bones paper prototype
+7. Create the paper prototype
+8. Test with paper prototype
+9. Make notes and highlight problem areas
+10. Test again
+11. Create playable throwaway prototype
+12. Test throwaway prototype
+13. Make notes and highlight problem areas
+
+In order to complete steps 1-5, a document will need to be created. Something
+like a design document for a prototype. It doesn't need to be as in depth
+as the design document that will be created for the overall project, but it
+does need to contain all of the information needed. This can be referred to as
+a prototype document.
+
+So now that the throwaway prototype is done, the project plan can really
+start to take shape. The prototype should grant a lot of understanding of
+the real scope of the project. Friction points and problem areas will either
+have solutions or need to be tabled (or scrapped in favor of a leaner design).
+
+From here, two things need to be created: a design document and a technical
+document. The design document lays out the vision of the project, including
+art style, sound design, overviews of mechanics, character design, player
+role, and anything else that has to do with design. This is a big topic
+and the design document is in depth by (ha!) design.
+
+The technical document outlines the specific defintions of everything in
+the game, borrowing from the design document. More importantly, it defines
+which third party tools, APIs, libraries, or frameworks will be used for the
+project. It also defines what will need to be written from scratch for the
+project. Further, it lays out a tentative plan for milestones. Team members
+and areas of expertise will need to be listed here as well.
